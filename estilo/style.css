@@ -1,0 +1,8 @@
+#aparecer {
+    align-items: center;
+    margin: auto auto;
+    width: 50px;
+    height: 30px;
+    padding: 20px;
+    background-color: red;
+}
